@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Neste repository apenas há o esboço do projeto, que inicialmente foi criado com `create react-app`, e alguns conceitos iniciais. A continuação do projeto que será desenvolvido utilizando Next.JS seguirá em outro repository.
 
 ## Available Scripts
 
